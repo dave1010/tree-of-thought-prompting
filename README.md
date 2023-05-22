@@ -4,6 +4,8 @@
 
 Tree-of-Thought (ToT) Prompting, a fresh technique borrowing ideas from the Tree-of-Thoughts framework, broadens and enhances the well-established Chain-of-Thought prompting concept, thereby enabling Large Language Models, like ChatGPT, to exhibit superior reasoning abilities. This Tree-of-Thought Prompting technique permits Large Language Models to rectify their errors autonomously while progressively accumulating knowledge.
 
+In one example, a ToT prompt improves ChatGPT 3.5's reasoning ability to answer a question that could previously only be answered by ChatGPT 4.
+
 ## Complex questions for LLMs
 
 Large Language Models (LLMs) often struggle to answer certain types of complex questions. Here's a representative example:
