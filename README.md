@@ -136,9 +136,18 @@ Should you find success with any other prompts, we welcome you to submit a PR an
 
 # Additional thoughts
 
-The Tree-of-Thought framework bears resemblance to an **organizational decision-making process** involving multiple stakeholders.
+The Tree-of-Thought framework bears resemblance to an **organizational decision-making process** involving multiple stakeholders. The structure tries to emulate consensus and diversity of thought.
 
-High-performing teams often outperform individuals in decision-making. Therefore, it's plausible that adopting other organizational structures and characteristics could enhance the performance of LLMs.
+The effect can be extended by using multiple agents that are fine tuned to handle different parts of a task. AutoGPT, where it self-evaluates LLM plans against a goal. Using differently tuned LLMs for specialisation or even completely different LLMs would allow greater diversity of thought. These LLMs could interact in different modes (using Team Topologies terminology):
+
+* **Collaboration**: This could involve combining and iterating the outputs of multiple models to generate a final response to a user's input. For example, a general-purpose model might generate a preliminary response, which is then refined or enhanced by a specialized model.
+* **X-as-a-Service**: Some models might provide services to others, such as pre-processing input data, post-processing output data, or providing contextual information. These models would operate in a service role, supporting the functions of the other models.
+* **Facilitating**: Some models might play a facilitative role, for example by training other models, monitoring their performance, or providing feedback that can be used to improve them.
+
+High-performing teams often outperform individuals in decision-making. Therefore, it's plausible that adopting other organizational structures and characteristics could enhance the performance of LLMs. In addition to diversity of thought, specialisation and concensus, we may be able to emulate:
+
+* **Hierarchy**: where simpler queries are handled by a lower-level model and more complex ones are escalated to more capable or specialized models
+* **Redundancy**: ensuring that if one model fails to generate an accurate or useful output, another might be able to step in and provide a better result
 
 # Acknowledgements
 
