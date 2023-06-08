@@ -138,7 +138,7 @@ Should you find success with any other prompts, we welcome you to submit a PR an
 
 The Tree-of-Thought framework bears resemblance to an **organizational decision-making process** involving multiple stakeholders. The structure tries to emulate consensus and diversity of thought.
 
-The effect can be extended by using multiple agents that are fine tuned to handle different parts of a task. AutoGPT, where it self-evaluates LLM plans against a goal. Using differently tuned LLMs for specialisation or even completely different LLMs would allow greater diversity of thought. These LLMs could interact in different modes (using Team Topologies terminology):
+The effect can be extended by using multiple agents that are fine tuned to handle different parts of a task. AutoGPT is a good example of this, where it self-evaluates LLM plans against a goal. Using differently tuned LLMs for specialisation or even completely different LLMs would allow greater diversity of thought. These LLMs could interact in different modes (using Team Topologies terminology):
 
 * **Collaboration**: This could involve combining and iterating the outputs of multiple models to generate a final response to a user's input. For example, a general-purpose model might generate a preliminary response, which is then refined or enhanced by a specialized model.
 * **X-as-a-Service**: Some models might provide services to others, such as pre-processing input data, post-processing output data, or providing contextual information. These models would operate in a service role, supporting the functions of the other models.
