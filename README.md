@@ -153,7 +153,7 @@ High-performing teams often outperform individuals in decision-making. Therefore
 
 * [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903), Jan 2022.
 * [Large Language Model Guided Tree-of-Thought](https://arxiv.org/abs/2305.08291), 15 May 2023. [Github](https://github.com/jieyilong/tree-of-thought-puzzle-solver).
-* [Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/abs/2305.10601), 17 May 2023. [Github](https://github.com/ysymyth/tree-of-thought-llm) (no code as of 22nd May)
+* [Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/abs/2305.10601), 17 May 2023. [Github](https://github.com/princeton-nlp/tree-of-thought-llm)
 * [Tree of Thoughts](https://github.com/kyegomez/tree-of-thoughts) Github, 21st May 2023
 
 
