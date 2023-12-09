@@ -1,5 +1,8 @@
 # Using Tree-of-Thought Prompting to boost ChatGPT's reasoning
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10323452.svg)](https://doi.org/10.5281/zenodo.10323452)
+
+
 ## Abstract
 
 Tree-of-Thought (ToT) Prompting, a fresh technique borrowing ideas from the Tree-of-Thoughts framework, broadens and enhances the well-established Chain-of-Thought prompting concept, thereby enabling Large Language Models, like ChatGPT, to exhibit superior reasoning abilities. This Tree-of-Thought Prompting technique permits Large Language Models to rectify their errors autonomously while progressively accumulating knowledge.
@@ -164,8 +167,11 @@ Please cite this repository if you use the code.
     @misc{tree-of-thought-prompting,
         author = {Dave Hulbert},
         title = {Tree of Knowledge: ToK aka Tree of Knowledge dataset for Large Language Models LLM,
+        month = may
         year = {2023},
-        publisher = {GitHub},
+        publisher = {Zenodo},
         journal = {GitHub repository},
+        doi = {10.5281/ZENODO.10323452},
         howpublished = {\url{https://github.com/dave1010/tree-of-thought-prompting}},
+        url = {https://doi.org/10.5281/zenodo.10323452}
     }
