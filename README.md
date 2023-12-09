@@ -165,13 +165,13 @@ High-performing teams often outperform individuals in decision-making. Therefore
 Please cite this repository if you use the code.
 
     @misc{tree-of-thought-prompting,
-        author = {Dave Hulbert},
-        title = {Tree of Knowledge: ToK aka Tree of Knowledge dataset for Large Language Models LLM,
-        month = may
-        year = {2023},
-        publisher = {Zenodo},
-        journal = {GitHub repository},
-        doi = {10.5281/ZENODO.10323452},
-        howpublished = {\url{https://github.com/dave1010/tree-of-thought-prompting}},
-        url = {https://doi.org/10.5281/zenodo.10323452}
+    	title        = {Using Tree-of-Thought Prompting to boost ChatGPT's reasoning},
+    	author       = {Dave Hulbert},
+    	year         = 2023,
+    	month        = may,
+    	journal      = {GitHub repository},
+    	publisher    = {Zenodo},
+    	doi          = {10.5281/ZENODO.10323452},
+    	url          = {https://doi.org/10.5281/zenodo.10323452},
+    	howpublished = {\url{https://github.com/dave1010/tree-of-thought-prompting}}
     }
