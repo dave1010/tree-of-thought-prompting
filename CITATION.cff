@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+title: >-
+  Using Tree-of-Thought Prompting to boost ChatGPT's
+  reasoning
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Dave
+    family-names: Hulbert
+    orcid: 'https://orcid.org/0000-0003-0238-440X'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.10323452
+repository-code: 'https://github.com/dave1010/tree-of-thought-prompting'
+url: >-
+  https://medium.com/@dave1010/using-tree-of-thought-prompting-to-boost-chatgpts-reasoning-318914eb0e76
+abstract: >-
+  Tree-of-Thought (ToT) Prompting, a fresh technique
+  borrowing ideas from the Tree-of-Thoughts framework,
+  broadens and enhances the well-established
+  Chain-of-Thought prompting concept, thereby enabling Large
+  Language Models, like ChatGPT, to exhibit superior
+  reasoning abilities. This Tree-of-Thought Prompting
+  technique permits Large Language Models to rectify their
+  errors autonomously while progressively accumulating
+  knowledge.
+keywords:
+  - prompting
+  - large language models
+  - chain of thought
+  - tree of thought
+license: MIT
+commit: 109c7cd7c6255d95c40ef96c80d4cbdd83023f3e
+version: '0.1'
+date-released: '2023-05-22'
